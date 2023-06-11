@@ -1,5 +1,5 @@
 # Jekyll Defaults
-title: blueface
+#title: blueface
 description: A small and simple site I made to test out Jekyll.
 baseurl: "" # the subpath of your site, e.g. /blog
 
@@ -12,10 +12,10 @@ paginate: 4
 gems: [jekyll-paginate]
 paginate_path: "/page:num"
 rss_path: /feed.xml
-navigation:
-- text: About
-  url: /about/
-- text: Archives
-  url: /archives/
-- text: Tags
-  url: /tags/
+#navigation:
+#- text: About
+#  url: /about/
+#- text: Archives
+#  url: /archives/
+#- text: Tags
+#  url: /tags/
